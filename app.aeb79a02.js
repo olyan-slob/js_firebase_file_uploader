@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"A2T1":[function(require,module,exports) {
 "use strict";var e=require("./upload");(0,e.upload)("#file",{multi:!0,accept:[".png",".jpg",".jpeg",".gif"]});
 },{"./upload":"YGik"}]},{},["A2T1"], null)
-//# sourceMappingURL=app.aeb79a02.js.map
+//# sourceMappingURL=/upload-files/app.aeb79a02.js.map
