@@ -1,12 +1,12 @@
 {
-  "name": "upload-files",
+  "name": "js_firebase_file_uploader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://olyan-slob.github.io/upload-files/",
+  "homepage": "https://olyan-slob.github.io/js_firebase_file_uploader",
   "scripts": {
     "serve": "parcel index.html",
-    "build": "parcel build index.html --public-url /upload-files/",
+    "build": "parcel build index.html --public-url /js_firebase_file_uploader/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
